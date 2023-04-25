@@ -1,0 +1,1 @@
+`python main.py --size_of_train_data 200 --total_steps 500`
